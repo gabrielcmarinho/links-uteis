@@ -275,7 +275,7 @@ para a Linguagem R e suas variantes
 * [ChallengeRocket](https://challengerocket.com/) - Desafios de Programação Back-end. IDE integrada
 * [Code Golf - StackExchange](https://codegolf.stackexchange.com/) - Desafios de programação da comunidade para a comunidade, IDE integrada somente pelo Snippet
 * [CodeForces](https://codeforces.com/) - Desafios de Programação Back-end com a compilação e testes feito pela plataforma porém sem IDE integrada
-* [CodePen Challenges](hhttps://codepen.io/challenges) - Desafios de Programação Front-end. IDE integrada
+* [CodePen Challenges](https://codepen.io/challenges) - Desafios de Programação Front-end. IDE integrada
 * [CoderByte](https://coderbyte.com/) - Desafios de Programação Back-end. IDE integrada
 * [CodeSignal](https://app.codesignal.com/) - Desafios de Programação Back-end. IDE integrada
 * [CodeWars](https://www.codewars.com/) - Desafios de Programação Back-end. IDE integrada
@@ -414,6 +414,7 @@ para a Linguagem R e suas variantes
 * [Dev Samurai](https://www.youtube.com/channel/UC-lHCBqKEtnXA0SBtdOP0bw) - Canal sobre tecnologia e comunidade de desenvolvedores
 * [DevMedia](https://www.youtube.com/channel/UClBrpNsTEFLbZDDMW1xiOaQ) - Canal de um dos maiores portais sobre programação do Brasil
 * [Diolinux](https://www.youtube.com/user/diolinux) - Canal sobre o mundo Unix e outras tecnologias
+* [DevSuperior](https://youtube.com/devsuperior) - Transforme sua carreira de desenvolvedor
 * [EspecializaTI](https://www.youtube.com/user/especializati) - Cursos gratuitos sobre PHP, Laravel, Linux e HTML+CSS
 * [Fabio Akita](https://www.youtube.com/user/AkitaOnRails) - Canal sobre tecnologia e desenvolvimento
 * [Facebook Developers](https://www.youtube.com/user/FacebookDevelopers) - Canal oficial da comunidade de desenvolvedores do Facebook
